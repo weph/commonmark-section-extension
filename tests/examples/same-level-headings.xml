@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://commonmark.org/xml/1.0">
+    <section>
+        <heading level="1">
+            <text>Heading 1</text>
+        </heading>
+        <paragraph>
+            <text>Some text</text>
+        </paragraph>
+    </section>
+    <section>
+        <heading level="1">
+            <text>Heading 2</text>
+        </heading>
+        <paragraph>
+            <text>More text</text>
+        </paragraph>
+    </section>
+</document>

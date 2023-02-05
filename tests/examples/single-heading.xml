@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://commonmark.org/xml/1.0">
+    <section>
+        <heading level="1">
+            <text>Single Heading</text>
+        </heading>
+        <paragraph>
+            <text>Some text</text>
+        </paragraph>
+        <list type="bullet" tight="true">
+            <item>
+                <paragraph>
+                    <text>Item A</text>
+                </paragraph>
+            </item>
+            <item>
+                <paragraph>
+                    <text>Item B</text>
+                </paragraph>
+            </item>
+        </list>
+    </section>
+</document>

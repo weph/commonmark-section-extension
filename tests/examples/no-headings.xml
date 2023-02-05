@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://commonmark.org/xml/1.0">
+    <paragraph>
+        <text>Just a plain file without any headings</text>
+    </paragraph>
+    <list type="bullet" tight="true">
+        <item>
+            <paragraph>
+                <text>Nothing</text>
+            </paragraph>
+        </item>
+        <item>
+            <paragraph>
+                <text>Should</text>
+            </paragraph>
+        </item>
+        <item>
+            <paragraph>
+                <text>Happen</text>
+            </paragraph>
+        </item>
+    </list>
+</document>

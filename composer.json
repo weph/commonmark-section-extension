@@ -1,0 +1,30 @@
+{
+    "name": "weph/commonmark-section-extension",
+    "type": "commonmark-extension",
+    "require": {
+        "php": "^8.1",
+        "league/commonmark": "^2.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Weph\\CommonmarkSectionExtension\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Weph\\CommonmarkSectionExtension\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Philip Weinke",
+            "email": "hello@philip-weinke.de"
+        }
+    ],
+    "require-dev": {
+        "roave/security-advisories": "dev-latest",
+        "phpunit/phpunit": "^10.0",
+        "vimeo/psalm": "^5.6"
+    }
+}

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://commonmark.org/xml/1.0">
+    <section>
+        <heading level="1">
+            <text>Heading 1</text>
+        </heading>
+        <paragraph>
+            <text>Text 1</text>
+        </paragraph>
+        <section>
+            <heading level="2">
+                <text>Heading 2.1</text>
+            </heading>
+            <paragraph>
+                <text>Text 2.1</text>
+            </paragraph>
+        </section>
+        <section>
+            <heading level="2">
+                <text>Heading 2.2</text>
+            </heading>
+            <paragraph>
+                <text>Text 2.2</text>
+            </paragraph>
+            <section>
+                <heading level="3">
+                    <text>Heading 3</text>
+                </heading>
+                <paragraph>
+                    <text>Text 3</text>
+                </paragraph>
+                <section>
+                    <heading level="4">
+                        <text>Heading 4</text>
+                    </heading>
+                    <paragraph>
+                        <text>Text 4</text>
+                    </paragraph>
+                </section>
+            </section>
+        </section>
+        <section>
+            <heading level="2">
+                <text>Heading 2.3</text>
+            </heading>
+            <paragraph>
+                <text>Text 2.3</text>
+            </paragraph>
+        </section>
+    </section>
+</document>
