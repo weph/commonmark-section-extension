@@ -8,12 +8,12 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Weph\\CommonmarkSectionExtension\\": "src/"
+            "Weph\\CommonMark\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Weph\\CommonmarkSectionExtension\\Tests\\": "tests/"
+            "Weph\\CommonMark\\Tests\\": "tests/"
         }
     },
     "authors": [

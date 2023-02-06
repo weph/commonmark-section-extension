@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Weph\CommonmarkSectionExtension\Tests;
+namespace Weph\CommonMark\Tests;
 
 use League\CommonMark\ConverterInterface;
 use League\CommonMark\Environment\Environment;
@@ -13,7 +13,7 @@ use PHPUnit\Framework\Attributes\DataProvider;
 use PHPUnit\Framework\Attributes\Test;
 use PHPUnit\Framework\Attributes\TestDox;
 use PHPUnit\Framework\TestCase;
-use Weph\CommonmarkSectionExtension\SectionExtension;
+use Weph\CommonMark\SectionExtension;
 
 #[CoversNothing]
 final class SectionExtensionTest extends TestCase

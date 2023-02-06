@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Weph\CommonmarkSectionExtension;
+namespace Weph\CommonMark;
 
 use League\CommonMark\Event\DocumentParsedEvent;
 use League\CommonMark\Extension\CommonMark\Node\Block\Heading;
